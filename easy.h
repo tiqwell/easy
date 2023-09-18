@@ -17,3 +17,4 @@ double itc_scir(int radius);
 double itc_pow(int num, int step);
 bool itc_ispositive(int num);
 bool itc_ispositive_d(double num);
+bool itc_iseven(int num);
