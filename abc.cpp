@@ -1,4 +1,4 @@
-int itc_abs(int num)
+long long itc_abs(long long num)
 {
 	if (num < 0)
 		return num *= -1;
